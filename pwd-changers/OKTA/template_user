@@ -1,5 +1,5 @@
 config secret template
-    edit "okta-user"
+    edit "OKTA-User"
         config field
             edit "URL"
                 set type url

@@ -1,5 +1,5 @@
 config secret template
-    edit "Saved Token"
+    edit "OKTA-Token"
         config field
             edit "Token"
                 set type password
